@@ -159,35 +159,35 @@ msgstr ""
 
 #: DesktopAppManager.vala:56
 msgid "Sound & Video"
-msgstr ""
+msgstr "Son & Vidéo"
 
 #: DesktopAppManager.vala:57
 msgid "Sound"
-msgstr ""
+msgstr "Son"
 
 #: DesktopAppManager.vala:58
 msgid "Video"
-msgstr ""
+msgstr "Vidéo"
 
 #: DesktopAppManager.vala:59
 msgid "Programming"
-msgstr ""
+msgstr "Programmation"
 
 #: DesktopAppManager.vala:60
 msgid "Education"
-msgstr ""
+msgstr "Educatif"
 
 #: DesktopAppManager.vala:61
 msgid "Games"
-msgstr ""
+msgstr "Jeux"
 
 #: DesktopAppManager.vala:62
 msgid "Graphics"
-msgstr ""
+msgstr "Graphiques"
 
 #: DesktopAppManager.vala:63
 msgid "Internet"
-msgstr ""
+msgstr "Internet"
 
 #: DesktopAppManager.vala:64
 msgid "Office"
@@ -199,19 +199,19 @@ msgstr ""
 
 #: DesktopAppManager.vala:66
 msgid "Settings"
-msgstr ""
+msgstr "Préférences"
 
 #: DesktopAppManager.vala:67
 msgid "System Tools"
-msgstr ""
+msgstr "Outils du Système"
 
 #: DesktopAppManager.vala:68
 msgid "Accessories"
-msgstr ""
+msgstr "Accessoires"
 
 #: DesktopAppManager.vala:69
 msgid "Other"
-msgstr ""
+msgstr "Autre"
 
 #: IconButton.vala:64
 msgid "Icon name or path to an image"
